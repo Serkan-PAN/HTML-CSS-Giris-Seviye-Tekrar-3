@@ -49,3 +49,4 @@ Buton Tasarımı → .btn class ile ortak buton stilleri
 
 📸 Ekran Görüntüsü
 
+[Proje Önizleme](design/wireframe.png)
